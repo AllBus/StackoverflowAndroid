@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="error_load_data">Loading data error</string>
+    <string name="error_load_data_retry_button">Reload</string>
+    <string name="creation_date">Creation date</string>
+    <string name="owner">Owner</string>
+    <string name="answer_count">Answer count</string>
+    <string name="link">Link</string>
+</resources>
